@@ -12,7 +12,7 @@ public static void main(String args[]) throws IOException
 	sal_base = sc.nextDouble();
 	sc.close();
 	descuento = sal_base * 0.1;
-    sal_total = sal_base - descuento;
+	sal_total = sal_base - descuento;
 	System.out.println("El salario del empleado con descuento es: "+sal_total);
 
 }
