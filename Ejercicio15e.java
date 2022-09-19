@@ -1,4 +1,4 @@
-public class Ejercicio15_5 {
+public class Ejercicio15e {
     public static void main(String[] args) {
       int _columnas, _filas;
       _columnas = _filas = 5;
